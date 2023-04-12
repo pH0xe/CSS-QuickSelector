@@ -16,7 +16,7 @@ CSS QuickSelector is the ultimate Chrome extension for writing and testing CSS s
 # Installation
 To install CSS QuickSelector, follow these simple steps:
 
-- Go to the Chrome Web Store and search for "[CSS QuickSelector](https://chrome.google.com/webstore/detail/??)"
+- Go to the Chrome Web Store and search for "[CSS QuickSelector](https://chrome.google.com/webstore/detail/css-quickselector/hpafiahdjpelojolbkknjhhdpbhkpjln)"
 - Click on "Add to Chrome" to install the extension.
 - Once installed, the extension icon will appear next to your address bar.
 - Open the DevTools console in your browser by pressing F12 or by right-clicking on the page and selecting "Inspect."
